@@ -1,0 +1,57 @@
+body {
+  background-color: #393E46;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #00ADB5;
+  color: #EEEEEE;
+  padding: 1rem 0;
+}
+header .nav-link {
+  color: #EEEEEE;
+}
+header .nav-link:hover {
+  text-decoration: underline;
+}
+header .Logo {
+  width: 50px;
+  height: 50px;
+}
+header .perfil {
+  width: 50px;
+  height: 50px;
+}
+
+.main {
+  padding: 2rem 0;
+}
+.main h1 {
+  color: #00ADB5;
+}
+.main .comments-section {
+  margin-top: 2rem;
+}
+.main .comments-section .navbar-text {
+  width: 100%;
+  height: 100px;
+}
+.main .comments-section .primary-button {
+  margin-top: 1rem;
+}
+
+.card {
+  background-color: #EEEEEE;
+  border: 1px solid #00ADB5;
+  margin: 1rem;
+  padding: 1rem;
+}
+.card .card-img-top {
+  width: 100%;
+  height: auto;
+}
+.card .card-text {
+  color: #00ADB5;
+}
+
+/*# sourceMappingURL=style.css.map */
